@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook hidden history
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# Pytest cache
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Pylint
+.pylint.d/
+
+# Bandit security scanner
+.bandit
+
+# VSCode settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# Jupyter Notebook metadata (optional, if you strip output)
+*.nbstripout
+
+# Data files (optional)
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.h5
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# Spyder settings
+.spyderproject
+.spyproject
+
+# Jupyter runtime
+~/.local/share/jupyter/runtime/
+
+# IPython history
+.ipython/
